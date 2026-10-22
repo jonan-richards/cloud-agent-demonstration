@@ -1,6 +1,6 @@
 # Todo application
 
-A very basic React todo app with a blue theme.
+A very basic React todo app with a red theme.
 
 ## Scripts
 
